@@ -18,3 +18,4 @@ test('Practice different Playwright locators on Google', async ({ page }) => {
   await expect(searchBox3).toBeVisible();
 });
 
+
